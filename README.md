@@ -1,2 +1,2 @@
-# jax-lasso
+# jax-lasso (wip)
 jax implementation of graphical lasso
